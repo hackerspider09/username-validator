@@ -1,10 +1,7 @@
-# username-validator
-This is live username availability checker
-**Ajax, Django** are used to make this.
-Also jQuery is used.
 
-# How to Run project
-* 1st Create virtual environment
-* Install Django after activating virtual environment 
-* Run Django command **py manage.py runserver**
-*Open localhost
+
+# Django Project
+
+This repository contains a live username availability checker web application. It allows users to check the availability of a username in real-time. The application is built using Ajax, Django, and jQuery.
+
+
